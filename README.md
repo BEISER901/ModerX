@@ -40,6 +40,8 @@
 - SUPABASE_ANON_KEY
 - POSTGRESS_URL
 
+![alt text](https://github.com/BEISER901/ModerX/blob/main/.drawable/img_1.png?raw=true)
+
 ### POSTGRESS_URL
 
 ### SUPABASE_ANON_KEY
