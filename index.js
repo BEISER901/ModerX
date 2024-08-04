@@ -32,6 +32,8 @@ async function supabaseQuery(mySql) {
   await client.end()
   return res
 }
+
+// Второй ИИ
 /*
 async function initialDataCollection(question){
   const completion = await openai.chat.completions.create({
@@ -81,6 +83,7 @@ let savedCode = null;
         return {request: req?.request??""}
       }
     )()
+// Второй ИИ
 /*    const resInitAi = await initialDataCollection(request)
     console.log(resInitAi)
     eval(resInitAi.code)
