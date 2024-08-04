@@ -1,4 +1,0 @@
-{
-  "text": "Я могу помочь вам с выводом всех существующих таблиц в базе данных, однако для этого необходимо использовать SQL код. Я предложу вам код, который выполнит данную задачу.",
-  "code": "async function __mainFunc__() {\n    try {\n        const SQL_STRING = 'SELECT table_name FROM information_schema.tables WHERE table_schema=\'public\';';\n        await supabaseQuery(SQL_STRING);\n        console.log('Функция успешно отправила данные в Supabase');\n    } catch (error) {\n        console.error('Ошибка при отправке данных в Supabase:', error);\n    }\n}\n\n// __mainFunc__();"
-}
