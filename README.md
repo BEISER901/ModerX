@@ -30,7 +30,7 @@
 	node --no-warnings --env-file=.env ./index.js
 ``` 
 
-# Настройка и пользование
+# Настройка
 
 ## Настройка ENV
 
