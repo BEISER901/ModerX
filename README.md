@@ -44,6 +44,18 @@
 
 ### POSTGRESS_URL
 
+Чтобы получить `POSTGRESS_URL` зайдите в Supabase Dashboard, там зайдите в Ваш проект и справа сверху нажмите кнопку "Connect".
+
+![alt text](https://github.com/BEISER901/ModerX/blob/main/.drawable/img_2.png?raw=true)
+
+![alt text](https://github.com/BEISER901/ModerX/blob/main/.drawable/img_3.png?raw=true)
+
+postgresql://postgres.\*:[YOUR-PASSWORD]@aws-0-eu-central-1.pooler.supabase.com:6543/postgres
+
+За место [YOUR-PASSWORD] вставляете пароль от проекта.
+
 ### SUPABASE_ANON_KEY
+
+
 
 ### POSTGRESS_URL
