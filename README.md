@@ -53,9 +53,3 @@
 postgresql://postgres.\*:[YOUR-PASSWORD]@aws-0-eu-central-1.pooler.supabase.com:6543/postgres
 
 За место [YOUR-PASSWORD] вставляете пароль от проекта.
-
-### SUPABASE_ANON_KEY
-
-
-
-### POSTGRESS_URL
