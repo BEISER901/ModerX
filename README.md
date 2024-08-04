@@ -4,30 +4,29 @@
 
 Установите зависимости:
 ```bash
-	yarn install
+yarn install
 ```
 Или
 ```bash
-	npm install
+npm install
 ```
 
 ## Запуск как программы
 
-Выполните команду из терминала в корне проекта:
+Выполните команду из терминала в корне проекта чтобы сделать файл исполняемым:
 ```bash
-	sudo chmod +x index.js
+sudo chmod +x index.js
 ```
-Чтобы сделать файл исполняемым.
 
 Теперь запустите файл `index.js` как программу из терминала
 ```bash
-	./index.js
+./index.js
 ```
 
 ## Запуск с помощью node *
 
 ```bash
-	node --no-warnings --env-file=.env ./index.js
+node --no-warnings --env-file=.env ./index.js
 ``` 
 
 # Настройка
