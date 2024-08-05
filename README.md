@@ -1,6 +1,6 @@
 # ModerX
 
-<p><img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=384&q=75" width="100px"/></p>
+<p><img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=384&q=75" width="200px"/></p>
 
 ## О проекте
 
