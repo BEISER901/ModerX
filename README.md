@@ -1,6 +1,6 @@
 # ModerX
 
-<div><img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=384&q=75" width="150px"/><img src="https://cdn.mos.cms.futurecdn.net/H42sibRfJNFqKNXoKoDFWn-1200-80.png" width="150px"/></div>
+<div><img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=384&q=75" width="150px"/><img src="https://cdn.mos.cms.futurecdn.net/H42sibRfJNFqKNXoKoDFWn-1200-80.png" width="100px"/></div>
 
 ## О проекте
 
